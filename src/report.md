@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Ошибка проверки номера карты в приложении Credit Card Number Validator]
+* [Ошибка проверки номера карты в приложении Credit Card Number Validator](https://github.com/zzz86zzz/Java-dz-1.2/issues/1)
 
 
 ## Описание процесса тестирования
